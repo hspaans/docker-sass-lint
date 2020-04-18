@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:latest
 
 LABEL maintainer="Hans Spaans <hans@dailystuff.nl>" \
       version="1.12.1" \
