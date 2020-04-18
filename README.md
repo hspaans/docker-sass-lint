@@ -1,6 +1,6 @@
 # SASS Lint Test Image
 
-SASS Lint as a Docker image to validate SASS files.
+Docker image for SASS Lint, https://github.com/sasstools/sass-lint
 
 # Usage within a GitLab CI Runner
 
